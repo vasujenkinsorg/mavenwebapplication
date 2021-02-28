@@ -35,21 +35,21 @@
 
 	</dependencies>
 	
-	<!--<distributionManagement>
+	<distributionManagement>
 	
 		    <repository>
 		      <id>nexus</id>
 		      <name>Mithun Technologies Releases Nexus Repository</name>
-		      <url>http://15.206.187.95:5998/vasutechnologies/repository/walmart-release/</url>
+		      <url>http:http://13.232.17.50:5998/vasutechnologies/repository/walmart-release/</url>
 		    </repository>
 
 		    <snapshotRepository>
 		      <id>nexus</id>
 		      <name>Mithun Technologies Snapshot Nexus Repository </name>
-		      <url>http://15.206.187.95:5998/vasutechnologies/repository/walmart-snapshot/</url>
+		      <url>http://13.232.17.50:5998/vasutechnologies/repository/walmart-snapshot/</url>
 		    </snapshotRepository>
 	    
-	</distributionManagement> -->
+	</distributionManagement> 
 
 	<!-- Committing and updating changes through Maven, by using below mvn command. 
 		For Commiting mvn -Dmessage="Updated using maven" scm:checkin For updating 
