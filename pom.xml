@@ -45,7 +45,7 @@
 
 		    <snapshotRepository>
 		      <id>nexus</id>
-		      <name>Mithun Technologies Snapshot Nexus Repository </name>
+		      <name>Mithun Technologies Snapshot Nexus Repository</name>
 		      <url>http://13.232.17.50:5998/vasutechnologies/repository/walmart-snapshot/</url>
 		    </snapshotRepository>
 	    
